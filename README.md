@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @C0DExAlligat0r
-- 👀 I’m interested in Meran Stack Devolopement ,Devops and Ui/ux
+- 👀 I’m interested in Mern Stack Devolopement ,Devops and Ui/ux
 - 🌱 I’m currently learning Mern Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
